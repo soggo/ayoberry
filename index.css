@@ -349,7 +349,9 @@
    .container {
      padding-left: 0px;
    }
-   
+   .kids-party{
+    width: 500px;
+   }
    .container.blogpost-item-description {
      position: relative;
      z-index: 2;
